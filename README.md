@@ -8,6 +8,7 @@
 - [Key Learning Points](#key-learning-points)
   
 This project analyzes sales data for gadget and accessories stores across multiple regions in Nigeria. It explores total revenue, unit sold, product performance, and sales patterns by day category.
+<img width="1299" height="427" alt="capture2" src="https://github.com/user-attachments/assets/043b8ed1-0db8-45fa-b7e5-0e507359d668" />
 
 ### Dataset Overview
 The dataset contains the following columns:
